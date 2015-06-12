@@ -1,0 +1,8 @@
+name: SaicoArmor
+main: com.pwncraftpvp.scarmor.core.Main
+description: Rare monthly armor for SaiCo servers!
+author: JjPwN1
+version: 0.1
+commands:
+   saicoarmor:
+      description: Main SaicoArmor command
